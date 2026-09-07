@@ -20,9 +20,9 @@ A Command Line software to communicate with git
 - Remote
 
 3. ## 6. What are the Stages of Git/GitHub?
-1.Working directory
-2.Staging Area
-3.Local Repository
+1. Working directory
+2. Staging Area
+3. Local Repository
 
 [Freecodecamp](https://www.youtube.com/@freecodecamp)
 
